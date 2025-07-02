@@ -1,4 +1,4 @@
-# ⚽ Soccer Match Prediction Model – DTS 360 Project
+# ⚽ Soccer Match Wins Prediction Model – DTS 360 Project
 
 This project was originally developed for my **DTS 360: Predictive Modeling** course. It demonstrates a full data science workflow using real-world soccer data from [FBref.com](https://fbref.com). The project includes data scraping, cleaning, training a predictive model, evaluating its performance, and saving the model for reuse.
 
